@@ -19,12 +19,13 @@ background-color: #06052d;
 h1 {color: #EB4723;
 font-size: 80px;
 text-decoration: underline;
-font-style: italic;
 text-shadow: 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black;}
 
 
-.top-buffer { margin-top: 130px;}
+.top-buffer { margin-top: 100px;}
 
+img {width: 140px;
+position: right;}
 
 h2,h3 {color: #c0cad3;
   text-decoration: underline;
