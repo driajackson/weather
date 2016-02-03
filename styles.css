@@ -31,7 +31,7 @@ position: right;}
 
 h2,h3 {color: ##333333;
   text-decoration: underline;
-  
+
   font-weight: bold;
 text-transform: uppercase;}
 
@@ -43,6 +43,8 @@ text-transform: uppercase;
 font-style:italic;font-size:15;color:##333333;
 }
 
+
+.navbar {min-height:32px !important;}
 
 /*h3 {color: #c0cad3;
   text-transform: uppercase;}*/
