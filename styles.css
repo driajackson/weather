@@ -10,6 +10,7 @@ background-image: url('../weather/banner.jpg');
 
 .top-buffer { margin-top: 130px;}
 
+
 body {
 
 text-align: center;
@@ -34,10 +35,10 @@ text-transform: uppercase;}
 
 p2 {position: center;
 color: #c0cad3;
-font-size: 17px;
+font-size: 15px;
 text-align: justify;
 text-transform: uppercase;
-font-style:italic;font-size:17;color:#c0cad3;
+font-style:italic;font-size:15;color:#c0cad3;
 }
 
 
