@@ -14,7 +14,8 @@ background-image: url('../weather/banner.jpg');
 body {
 
 text-align: center;
-background-color: #06052d;
+background-color: #fff;
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
 h1 {color: #EB4723;
@@ -28,17 +29,18 @@ text-shadow: 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px
 img {width: 140px;
 position: right;}
 
-h2,h3 {color: #c0cad3;
+h2,h3 {color: ##333333;
   text-decoration: underline;
-  font-style: italic;
+  
+  font-weight: bold;
 text-transform: uppercase;}
 
 p2 {position: center;
-color: #c0cad3;
+color: ##333333;
 font-size: 15px;
 text-align: justify;
 text-transform: uppercase;
-font-style:italic;font-size:15;color:#c0cad3;
+font-style:italic;font-size:15;color:##333333;
 }
 
 
